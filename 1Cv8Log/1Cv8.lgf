@@ -1,0 +1,21 @@
+﻿1CV8LOG(ver 2.0)
+7f50dfba-4576-449e-bd86-04535bf0bb81
+
+{1,071523a4-516f-4fce-ba4b-0d11ab7a1893,"",1},
+{2,"DESKTOP-URNJN0F",1},
+{3,"Designer",1},
+{4,"_$Session$_.Authentication",1},
+{13,1,1},
+{4,"_$Session$_.Start",2},
+{4,"_$InfoBase$_.ConfigUpdate",3},
+{4,"_$InfoBase$_.DumpStart",4},
+{4,"_$InfoBase$_.DumpFinish",5},
+{4,"_$InfoBase$_.ExclusiveModeChange",6},
+{4,"_$Session$_.Finish",7},
+{4,"_$InfoBase$_.DBConfigUpdateStart",8},
+{4,"_$InfoBase$_.PredefinedDataUpdate",9},
+{5,c09e2b8e-2278-459f-8c13-7d88010cfd6f,"",1},
+{5,afdd2516-0131-4e70-811f-768ccab8f2c8,"",2},
+{4,"_$InfoBase$_.DBConfigUpdate",10},
+{4,"_$Access$_.Access",11},
+{3,"1CV8C",2}
